@@ -3,8 +3,6 @@
 
 Peixos is an animal video tracking software for behavioural analysis. The software allows tracking species on videos using logical rules to tag high confidence elements in the video and requesting expert knowledge for disambiguation. Our GUI enables a friendly and fast interaction with the system allowing correcting tracking mistakes in real-time. The software is built-in Python3.6 and OpenCV.
 
-![alt text](
-https://github.com/albertcalv/LYD-Peixos/blob/master/doc/main_peixos.png?raw=true)
 
 ## Usage
 
@@ -61,3 +59,8 @@ Peixos allows automatic tracking, no human supervision and manual supervision, t
   
 -  [FAQs](https://github.com/albertcalv/Peixos/wiki/FAQs)
   
+  
+  
+This software was financed by the Spanish MCIN/AEI/10.13039/501100011033, under projects No. PID2019- 106290GB-C21 and No. PID2019-106290GB-C22.
+
+
